@@ -36,9 +36,9 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            
+
             // Waktu habis, lakukan tindakan yang diinginkan
-            Debug.Log("Waktu habis!");
+            SceneManager.LoadScene("Menu", LoadSceneMode.Single);
         }
  }
  
