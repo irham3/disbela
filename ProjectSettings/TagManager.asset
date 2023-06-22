@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Powerup
+  - Achar
+  - Bchar
+  - Tchar
+  - Uchar
+  - char
+  - Char
   layers:
   - Default
   - TransparentFX
